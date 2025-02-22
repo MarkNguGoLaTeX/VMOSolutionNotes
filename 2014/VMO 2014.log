@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  18 FEB 2025 21:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  22 FEB 2025 09:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -870,24 +870,24 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 59.
  (VMO 2014.aux)
 \openout1 = `"VMO 2014.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 338.
-LaTeX Font Info:    ... okay on input line 338.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 338.
-LaTeX Font Info:    ... okay on input line 338.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 338.
-LaTeX Font Info:    ... okay on input line 338.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 338.
-LaTeX Font Info:    ... okay on input line 338.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 338.
-LaTeX Font Info:    ... okay on input line 338.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 338.
-LaTeX Font Info:    ... okay on input line 338.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 338.
-LaTeX Font Info:    ... okay on input line 338.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 338.
-LaTeX Font Info:    ... okay on input line 338.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 338.
-LaTeX Font Info:    ... okay on input line 338.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 339.
+LaTeX Font Info:    ... okay on input line 339.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 339.
+LaTeX Font Info:    ... okay on input line 339.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 339.
+LaTeX Font Info:    ... okay on input line 339.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 339.
+LaTeX Font Info:    ... okay on input line 339.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 339.
+LaTeX Font Info:    ... okay on input line 339.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 339.
+LaTeX Font Info:    ... okay on input line 339.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 339.
+LaTeX Font Info:    ... okay on input line 339.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 339.
+LaTeX Font Info:    ... okay on input line 339.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 339.
+LaTeX Font Info:    ... okay on input line 339.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -942,7 +942,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 338.
+Package hyperref Info: Link coloring ON on input line 339.
  (VMO 2014.out) (VMO 2014.out)
 \@outlinefile=\write4
 \openout4 = `"VMO 2014.out"'.
@@ -950,27 +950,27 @@ Package hyperref Info: Link coloring ON on input line 338.
 \c@lstlisting=\count396
 \symgns@font=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 338.
-Package gensymb Info: Math companion symbols declared on input line 338.
-LaTeX Info: Redefining \degree on input line 338.
-LaTeX Info: Redefining \celsius on input line 338.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 338.
-LaTeX Info: Redefining \ohm on input line 338.
-Package gensymb Info: Using \textohm for \ohm on input line 338.
-Package gensymb Info: Using \textmu for \micro on input line 338.
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 339.
+Package gensymb Info: Math companion symbols declared on input line 339.
+LaTeX Info: Redefining \degree on input line 339.
+LaTeX Info: Redefining \celsius on input line 339.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 339.
+LaTeX Info: Redefining \ohm on input line 339.
+Package gensymb Info: Using \textohm for \ohm on input line 339.
+Package gensymb Info: Using \textmu for \micro on input line 339.
 
 Couldn't patch \deferred@thm@head!
 Package pgfplots notification 'compat/show suggested version=true': you might benefit from \pgfplotsset{compat=1.18} (current compat level: 1.15).
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 340.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 341.
 (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 340.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 341.
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 340.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 341.
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 ) (VMO 2014.toc)
@@ -986,9 +986,9 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 [2]
 
 [3]
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 423.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 424.
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 432.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 433.
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
 
 [4{C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
@@ -1007,7 +1007,15 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on in
 
 [11]
 
-[12] (VMO 2014.aux)
+[12]
+
+[13]
+
+[14]
+
+[15]
+
+[16] (VMO 2014.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
@@ -1016,17 +1024,17 @@ Package rerunfilecheck Info: File `"VMO 2014".out' has not changed.
 (rerunfilecheck)             Checksum: B9D34CDEFA06374B1AA8108E3F59FD5F;493.
  ) 
 Here is how much of TeX's memory you used:
- 44561 strings out of 473536
- 1048878 string characters out of 5714956
- 1633933 words of memory out of 5000000
- 67044 multiletter control sequences out of 15000+600000
+ 44718 strings out of 473536
+ 1052398 string characters out of 5714956
+ 1633947 words of memory out of 5000000
+ 67193 multiletter control sequences out of 15000+600000
  575185 words of font info for 97 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,13n,107p,1261b,1387s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1200.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1440.pk><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "VMO 2014.pdf" (12 pages, 288685 bytes).
+ <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1200.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1440.pk><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on "VMO 2014.pdf" (16 pages, 343140 bytes).
 PDF statistics:
- 252 PDF objects out of 1000 (max. 8388607)
- 36 named destinations out of 1000 (max. 500000)
+ 289 PDF objects out of 1000 (max. 8388607)
+ 44 named destinations out of 1000 (max. 500000)
  189 words of extra memory for PDF output out of 10000 (max. 10000000)
 
