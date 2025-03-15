@@ -8,6 +8,11 @@ INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT ..\preamble.tex
+INPUT ..\preamble.tex
+INPUT ..\preamble.tex
+INPUT ..\preamble.tex
+INPUT ..\preamble.tex
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\geometry\geometry.sty
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\graphics\keyval.sty

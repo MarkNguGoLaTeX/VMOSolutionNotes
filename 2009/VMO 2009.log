@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  2 MAR 2025 21:27
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2025.1.26)  27 FEB 2025 18:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/84917/Dropbox/PC/Desktop/LaTeX/VMOSolutionNotes/2014/VMO 2014.tex"
-(c:/Users/84917/Dropbox/PC/Desktop/LaTeX/VMOSolutionNotes/2014/VMO 2014.tex
+**"c:/Users/84917/Dropbox/PC/Desktop/LaTeX/VMOSolutionNotes/2009/VMO 2009.tex"
+(c:/Users/84917/Dropbox/PC/Desktop/LaTeX/VMOSolutionNotes/2009/VMO 2009.tex
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
 (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -867,8 +867,8 @@ Package hyperref Info: Option `colorlinks' set `true' on input line 54.
 \c@tcb@cnt@remark=\count387
 \c@tcb@cnt@motivation=\count388
 \c@exercise=\count389
-) (VMO 2014.aux)
-\openout1 = `"VMO 2014.aux"'.
+) (VMO 2009.aux)
+\openout1 = `"VMO 2009.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
@@ -943,9 +943,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 Package hyperref Info: Link coloring ON on input line 40.
- (VMO 2014.out) (VMO 2014.out)
+ (VMO 2009.out) (VMO 2009.out)
 \@outlinefile=\write4
-\openout4 = `"VMO 2014.out"'.
+\openout4 = `"VMO 2009.out"'.
 
 \c@lstlisting=\count396
 \symgns@font=\mathgroup7
@@ -973,9 +973,9 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 LaTeX Font Info:    Trying to load font information for U+rsfs on input line 42.
  (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
-) (VMO 2014.toc)
+) (VMO 2009.toc)
 \tf@toc=\write5
-\openout5 = `"VMO 2014.toc"'.
+\openout5 = `"VMO 2009.toc"'.
 
 
 
@@ -985,56 +985,26 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 [2]
 
-[3]
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 125.
- (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 134.
- (C:\Users\84917\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
-
-[4{C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}]
-
-[5]
-
-[6]
-
-[7]
-
-[8]
-
-[9]
-
-[10]
-
-[11]
-
-[12]
-
-[13]
-
-[14]
-
-[15]
-
-[16] (VMO 2014.aux)
+[3] (VMO 2009.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 1
 L3 programming layer <2024-12-25>
  ***********
-Package rerunfilecheck Info: File `"VMO 2014".out' has not changed.
-(rerunfilecheck)             Checksum: B9D34CDEFA06374B1AA8108E3F59FD5F;493.
+Package rerunfilecheck Info: File `"VMO 2009".out' has not changed.
+(rerunfilecheck)             Checksum: E7BAD7AE29173F9F2AEAD8D52CF0AAB5;171.
  ) 
 Here is how much of TeX's memory you used:
- 44730 strings out of 473536
- 1052699 string characters out of 5714956
- 1633959 words of memory out of 5000000
- 67199 multiletter control sequences out of 15000+600000
- 575185 words of font info for 97 fonts, out of 8000000 for 9000
+ 44314 strings out of 473536
+ 1043307 string characters out of 5714956
+ 1617953 words of memory out of 5000000
+ 66835 multiletter control sequences out of 15000+600000
+ 571024 words of font info for 81 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 103i,13n,110p,1261b,1387s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1095.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1200.pk> <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1440.pk><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtcsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "VMO 2014.pdf" (16 pages, 344093 bytes).
+ 103i,12n,110p,1261b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\84917\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcsx1440.pk><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss12.pfb><C:/Users/84917/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on "VMO 2009.pdf" (3 pages, 103517 bytes).
 PDF statistics:
- 290 PDF objects out of 1000 (max. 8388607)
- 45 named destinations out of 1000 (max. 500000)
- 189 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 116 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 173 words of extra memory for PDF output out of 10000 (max. 10000000)
 

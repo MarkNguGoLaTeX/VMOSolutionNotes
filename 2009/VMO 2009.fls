@@ -1,7 +1,7 @@
-PWD c:\Users\84917\Dropbox\PC\Desktop\LaTeX\VMOSolutionNotes\2013
+PWD c:\Users\84917\Dropbox\PC\Desktop\LaTeX\VMOSolutionNotes\2009
 INPUT C:\Users\84917\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\84917\Dropbox\PC\Desktop\LaTeX\VMOSolutionNotes\2013\VMO 2013.tex
-OUTPUT VMO 2013.log
+INPUT c:\Users\84917\Dropbox\PC\Desktop\LaTeX\VMOSolutionNotes\2009\VMO 2009.tex
+OUTPUT VMO 2009.log
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\base\size11.clo
@@ -261,7 +261,7 @@ INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
-OUTPUT VMO 2013.pdf
+OUTPUT VMO 2009.pdf
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\tcolorbox\tcbposter.code.tex
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\base\textcomp.sty
@@ -382,10 +382,10 @@ INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgf
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\generic\pgf\libraries\pgflibraryarrows.meta.code.tex
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
-INPUT .\VMO 2013.aux
-INPUT .\VMO 2013.aux
-INPUT VMO 2013.aux
-OUTPUT VMO 2013.aux
+INPUT .\VMO 2009.aux
+INPUT .\VMO 2009.aux
+INPUT VMO 2009.aux
+OUTPUT VMO 2009.aux
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
@@ -394,13 +394,13 @@ INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\epstopdf-pkg\epstop
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT .\VMO 2013.out
-INPUT .\VMO 2013.out
-INPUT VMO 2013.out
-INPUT VMO 2013.out
-INPUT .\VMO 2013.out
-INPUT .\VMO 2013.out
-OUTPUT VMO 2013.out
+INPUT .\VMO 2009.out
+INPUT .\VMO 2009.out
+INPUT VMO 2009.out
+INPUT VMO 2009.out
+INPUT .\VMO 2009.out
+INPUT .\VMO 2009.out
+OUTPUT VMO 2009.out
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
@@ -441,9 +441,9 @@ INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.t
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss12.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
-INPUT .\VMO 2013.toc
-INPUT .\VMO 2013.toc
-INPUT VMO 2013.toc
+INPUT .\VMO 2009.toc
+INPUT .\VMO 2009.toc
+INPUT VMO 2009.toc
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
@@ -451,86 +451,30 @@ INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\84917\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs10.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1095.tfm
-OUTPUT VMO 2013.toc
+OUTPUT VMO 2009.toc
 INPUT C:\Users\84917\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcsx1440.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmcsc10.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcsx1200.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmss10.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmssbx10.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free1solid.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree2.fd
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\fontawesome5\fa5free2solid.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtcsc10.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtcsc10.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free1.enc
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\fontawesome5\fa5free2.enc
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msam5.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
-INPUT C:\Users\84917\AppData\Local\MiKTeX\fonts\tfm\public\rsfs\rsfs5.tfm
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm0500.tfm
-INPUT VMO 2013.aux
-INPUT .\VMO 2013.out
-INPUT .\VMO 2013.out
-INPUT C:\Users\84917\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
-INPUT C:\Users\84917\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1095.pk
-INPUT C:\Users\84917\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcsx1200.pk
-INPUT C:\Users\84917\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcsx1200.pk
+INPUT VMO 2009.aux
+INPUT .\VMO 2009.out
+INPUT .\VMO 2009.out
 INPUT C:\Users\84917\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcsx1440.pk
 INPUT C:\Users\84917\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcsx1440.pk
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesome5\FontAwesome5Free-Solid.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\fontawesome5\FontAwesome5Free-Solid.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr6.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss12.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmss12.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy6.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtcsc10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtcsc10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msam10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
-INPUT C:\Users\84917\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
